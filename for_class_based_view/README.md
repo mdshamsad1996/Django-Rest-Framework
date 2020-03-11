@@ -19,6 +19,6 @@ pip install -r requirements.txt
 ```
 ### Run app using below command
 ```
-cd server
+cd djangorest
 python manage.py runserver
 ```
